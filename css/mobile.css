@@ -52,7 +52,7 @@
         animation-duration: 0.15s;
     }
 
-    .mobileNav .bg{
+    .mobileNav .navBG{
         display: flex;
         flex-direction: column;
         height: 100vh;
@@ -61,17 +61,17 @@
         background-color: var(--Neutral);
     }
 
-    .bg > a .fa{
+    .navBG > a .fa{
         font-size: 1.5rem;
         margin-right: 2rem;
         width: 1rem;
     }
 
-    .mobileNav .bg > hr{
+    .mobileNav .navBG > hr{
         width: 100%;
     }
 
-    .mobileNav .bg > a{
+    .mobileNav .navBG > a{
         padding: 0.25rem;
     }
 
