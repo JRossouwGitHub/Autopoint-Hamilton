@@ -181,11 +181,12 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     width: 75%;
+    height: 700px;
     margin: 0 auto;
 }
 
 .products div{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.85);
     color: white;
     margin: 1rem;
     font-weight: bold;

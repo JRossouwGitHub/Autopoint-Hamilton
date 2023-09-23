@@ -87,3 +87,11 @@ a:hover{
     text-align: center;
     font-size: 1rem;
 }
+
+.bg{
+    width: 100%;
+    background-image: url("../img/shop.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: -1;
+}
